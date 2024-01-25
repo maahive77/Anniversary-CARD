@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anniversary Card queen♡ & king♡</title>
+    <script src="https://unpkg.com/gsap@3.9.0/dist/gsap.min.js"></script>
+    <style>
+        body { margin: 0; display: flex; align-items: center; justify-content: center; height: 100vh; 
+            background-image: url(https://cdn2.momjunction.com/wp-content/uploads/2021/08/Wedding-Anniversary-Wishes-And-Quotes-For-Friends-624x702.jpg.webp); background-color: #f067d5; }
+        .card { width: 300px; height: 200px; position: relative; transform-style: preserve-3d; cursor: pointer; }
+        .card div { position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); border-radius: 10px; }
+        .front {background-color: #0897e4; }
+        .back { background-color: #ffc107; transform: rotateY(180deg); }
+        
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="front">
+            <h1>Happy Anniversary♡!</h1>
+            <p>Wishing you a day filled with love and joy.</p>
+        </div>
+        <div class="back">
+            <h1>Celebrating ❤️ together!</h1>
+            <p>Thanks for the wonderful memories.</p>
+        </div>
+    </div>
+   <!-- <pre><audio controls loop autoplay class="music">
+        <source src="Love Ya - Diljit Dosanjh.mp3" type="audio/mp3">
+        your browser does not support the audio element.
+    </audio>
+</pre>-->
+    <script src="script.js"></script>
+</body>
+</html>
