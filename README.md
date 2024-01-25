@@ -1,5 +1,5 @@
 # Anniversary Card
- [![happy anniversary](https://img.shields.io/badge/Happy-Anniversary-card-dodgerblue.svg?style=for-the-badge)]( https://maahive77.github.io/anniversary-CARD/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)]( https://maahive77.github.io/anniversary-CARD/
+ [![happy anniversary](https://img.shields.io/badge/Happy-Anniversary-dodgerblue.svg?style=for-the-badge)]( https://maahive77.github.io/anniversary-CARD/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)]( https://maahive77.github.io/anniversary-CARD/
 )
 
 [![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)]( https://maahive77.github.io/anniversary-CARD/)
